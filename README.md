@@ -41,5 +41,3 @@ jupyter notebook Data_Cleaning_Lab.ipynb
 ## ✨ Contributing  
 Feel free to fork this repo and submit a pull request if you have improvements or additional techniques to share!  
 
-## 📜 License  
-This project is licensed under the [MIT License](LICENSE).  
